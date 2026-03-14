@@ -1,1 +1,1 @@
-# Clasificaci-n-de-Uso-de-Suelo-en-Im-genes-Satelitales
+# Clasificación de Uso de Suelo en Imágenes Satelitales mediante Redes Neuronales Convolucionales
